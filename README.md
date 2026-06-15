@@ -11,9 +11,9 @@
 
 ## Business Impact & Performance
 This project was engineered to solve a complex, recurring business bottleneck: automating the generation of analytical reports based on large-scale sociological surveys containing **70,000+ respondents**. 
-# The Challenge:
+### The Challenge:
 Reporting required data to be aggregated regionally, dictating a strict "one slide per region" format. Each slide needed to display identical variables but highly dynamic localized values (text blocks, region names, and charts). The primary architectural constraint was that survey questions and client data requirements changed monthly, rendering static PowerPoint templates entirely useless.
-# The Solution:
+### The Solution:
 I developed a full-stack desktop application featuring an interactive canvas where analysts can visually drag-and-drop text fields, charts, and variables. Once the layout is designed, the engine automatically iterates through the dataset and generates slides for all regions, perfectly replicating the user's custom layout pixel-by-pixel.
 
 * **Massive Throughput:** Seamlessly ingests and processes **100MB+** of raw tabular data (SPSS `.sav` and Excel `.xlsx`).
