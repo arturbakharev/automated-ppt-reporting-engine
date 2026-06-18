@@ -7,7 +7,22 @@
 > **Note:** The core source code for this repository is kept private to protect proprietary data-parsing algorithms and custom workarounds developed for python-pptx library limitations. Below is a demonstration of the system's architecture, capabilities, and business impact.
 
 ## System Demonstration
-![Demo](assets/demo.gif)
+[![Automated Data-to-PPTX Demo](https://img.youtube.com/vi/wjLAdcW3o60/maxresdefault.jpg)](https://youtu.be/wjLAdcW3o60 "Click to Watch the Demo")
+
+### 🔄 The Transformation: Before vs. After
+*How a blank template is programmatically populated with calculated metrics, dynamic boundaries, and perfectly aligned text fields.*
+
+<table align="center">
+  <tr>
+    <th align="center">❌ Before (Static Template)</th>
+    <th align="center">✅ After (Automated Output)</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/before.png" alt="Before Program" width="450"/></td>
+    <td align="center"><img src="assets/after.png" alt="After Program" width="450"/></td>
+  </tr>
+</table>
+
 
 ## Business Impact & Performance
 This project was engineered to solve a complex, recurring business bottleneck: automating the generation of analytical reports based on large-scale sociological surveys containing **70,000+ respondents**. 
