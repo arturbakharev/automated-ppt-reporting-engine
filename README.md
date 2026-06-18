@@ -19,8 +19,8 @@
     <th align="center">✅ After (Automated Output)</th>
   </tr>
   <tr>
-    <td align="center"><img src="assets/before.png" alt="Before Program" width="450"/></td>
-    <td align="center"><img src="assets/after.png" alt="After Program" width="450"/></td>
+    <td align="center"><img src="assets/before.jpg" alt="Before Program" width="450"/></td>
+    <td align="center"><img src="assets/after.jpg" alt="After Program" width="450"/></td>
   </tr>
 </table>
 
