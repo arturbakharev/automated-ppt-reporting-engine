@@ -7,9 +7,10 @@
 > **Note:** The core source code for this repository is kept private to protect proprietary data-parsing algorithms and custom workarounds developed for python-pptx library limitations. Below is a demonstration of the system's architecture, capabilities, and business impact.
 
 ## System Demonstration
+
 [![Automated Data-to-PPTX Demo](https://img.youtube.com/vi/wjLAdcW3o60/maxresdefault.jpg)](https://youtu.be/wjLAdcW3o60 "Click to Watch the Demo")
 
-### 🔄 The Transformation: Before vs. After
+### The Transformation: Before vs. After
 *How a blank template is programmatically populated with calculated metrics, dynamic boundaries, and perfectly aligned text fields.*
 
 <table align="center">
