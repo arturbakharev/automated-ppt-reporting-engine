@@ -15,16 +15,11 @@
 ### The Transformation: Before vs. After
 *How a blank template is programmatically populated with calculated metrics, dynamic boundaries, and perfectly aligned text fields.*
 
-<table align="center">
-  <tr>
-    <th align="center">❌ Before (Static Template)</th>
-    <th align="center">✅ After (Automated Output)</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/before.jpg" alt="Before Program" width="450"/></td>
-    <td align="center"><img src="assets/after.jpg" alt="After Program" width="450"/></td>
-  </tr>
-</table>
+<p align="center">
+  <b>❌ Before (Static Template)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>✅ After (Automated Output)</b><br>
+  <img src="before.jpg" alt="Before" width="45%">
+  <img src="after.jpg" alt="After" width="45%">
+</p>
 
 
 ## Business Impact & Performance
