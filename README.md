@@ -8,6 +8,8 @@
 
 ## System Demonstration
 
+**Click the image below to watch the video demonstration on YouTube:**
+
 [![Automated Data-to-PPTX Demo](https://img.youtube.com/vi/wjLAdcW3o60/maxresdefault.jpg)](https://youtu.be/wjLAdcW3o60 "Click to Watch the Demo")
 
 ### The Transformation: Before vs. After
